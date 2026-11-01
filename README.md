@@ -1,12 +1,12 @@
 # Hi, I'm Grzegorz 👋
 
-Windows and infrastructure engineer. I keep servers, networks and monitoring running — and I write small tools whenever the off-the-shelf one makes me click too many times.
+Network and systems administrator. I run Cisco networks and Windows servers for a manufacturing plant — and I build the monitoring and tooling that keeps both visible.
 
-**Monitoring** — Zabbix is my daily driver: templates, discovery rules, items, triggers, dashboards, alert tuning and threshold work, plus server/database migrations and platform upgrades.
+**Network** — Cisco IOS/IOS-XE routers and switches, ACLs, VLANs and network segmentation, Check Point and Fortinet firewall policy management. I have led production and CCTV network separation projects end to end.
 
-**Systems** — Windows Server and clients, Active Directory, Group Policy, WSUS, WDS/MDT imaging, endpoint protection.
+**Systems** — Windows Server and clients, Active Directory and Group Policy, WSUS, WDS/MDT imaging, Symantec Endpoint Protection, print services.
 
-**Network** — Cisco IOS/IOS-XE routers and switches, ACLs and VLANs, Check Point and Fortinet policy management.
+**Monitoring** — Zabbix is my daily driver: templates, discovery rules, items, triggers, dashboards, alert tuning and threshold work, plus a server and database migration and platform upgrades.
 
 **Automation** — PowerShell first, then Python and C# when a script grows into a tool.
 
@@ -20,4 +20,4 @@ Most of what I build lives inside the networks I administer, so these repositori
 
 ---
 
-<sub>Open to conversations about infrastructure monitoring, Windows fleet management and automation.</sub>
+<sub>Open to conversations about network and infrastructure monitoring, Windows fleet management and automation.</sub>
