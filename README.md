@@ -2,7 +2,7 @@
 
 Network and systems administrator. I run Cisco networks and Windows servers for a manufacturing plant — and I build the monitoring and tooling that keeps both visible.
 
-**Network** — Cisco IOS/IOS-XE routers and switches, ACLs, VLANs and network segmentation, Check Point and Fortinet firewall policy management. I have led production and CCTV network separation projects end to end.
+**Network** — Cisco IOS/IOS-XE routers and switches, ACLs and network segmentation, Check Point and Fortinet firewall policy management. I have led production and CCTV network separation projects end to end.
 
 **Systems** — Windows Server and clients, Active Directory and Group Policy, WSUS, WDS/MDT imaging, Symantec Endpoint Protection, print services.
 
